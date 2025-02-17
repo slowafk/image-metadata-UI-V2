@@ -9,6 +9,22 @@
 
 2. install dependencies:
 
-```npm install  # or pip install -r requirements.txt (if using Python)```
+```npm install```
 
-3. 
+3. start the backend server:
+
+```npm start```
+
+### frontend
+
+1. navigate to the frontend folder:
+
+```cd frontend```
+
+2. install dependencies:
+
+```npm install```
+
+3. start the frontend application
+
+```npm start```
